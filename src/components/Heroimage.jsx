@@ -1,10 +1,11 @@
 import "./Heroimage.css";
-
 import React from 'react'
 import IntroImg from "../assets/intro-bg.jpg";
 import {Link} from "react-router-dom"
+
 const Heroimage = () => {
-  const resumeURL = "https://drive.google.com/file/d/16_WDQG2XQTTLllmaOr-D2zHEqSucXGuV/view?usp=sharing";
+  
+  const resumeURL = "https://drive.google.com/file/d/1LGCOaPmI-CuBvmyd73DWp5hnfOLvX8nC/view?usp=sharing";
   return (
     <div className="hero">
       <div className="mask">
