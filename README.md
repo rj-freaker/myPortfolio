@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Demo of my portfolio :- https://portfolio-of-lonewolf-rupesh.netlify.app/
+## Live Demo of my portfolio :- [https://portfolio-of-lonewolf-rupesh.netlify.app/](https://my-portfolio-drab-kappa.vercel.app/)
 
 ## Available Scripts
 
