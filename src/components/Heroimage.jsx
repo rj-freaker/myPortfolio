@@ -5,7 +5,7 @@ import {Link} from "react-router-dom"
 
 const Heroimage = () => {
   
-  const resumeURL = "https://drive.google.com/file/d/1LGCOaPmI-CuBvmyd73DWp5hnfOLvX8nC/view?usp=sharing";
+  const resumeURL = "https://drive.google.com/file/d/1skEidAK9mar7DCnBqs26ERiaX6gEgNtm/view?usp=drive_link";
   return (
     <div className="hero">
       <div className="mask">
